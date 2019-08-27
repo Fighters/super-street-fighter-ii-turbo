@@ -55,17 +55,12 @@
 				"after": "Hooligan Combination"
 			},
 			{
-				"name": "Razor Edge Slicer",
-				"input": "{doNothing}",
-				"after": "Hooligan Combination"
-			},
-			{
 				"name": "Fatal Leg Twister",
 				"input": ":b: {or} :f:+[K] {nearOpponentHead}",
 				"after": "Hooligan Combination"
 			},
 			{
-				"name": "Fatal Leg Twister",
+				"name": "Cross Scissors Pressure",
 				"input": ":b: {or} :f:+[K] {nearOpponentWaist}",
 				"after": "Hooligan Combination"
 			},
