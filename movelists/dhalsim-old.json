@@ -27,11 +27,11 @@
 		"{unique-attacks}": [
 			{
 				"name": "Yoga Mummy",
-				"input": "{atJumpApex} :d:+[HP]"
+				"input": "{inAir} :d:+[HP]"
 			},
 			{
 				"name": "Drill Kick",
-				"input": "{atJumpApex} :d:+[HK]"
+				"input": "{inAir} :d:+[HK]"
 			}
 		],
 		"{special-moves}": [
