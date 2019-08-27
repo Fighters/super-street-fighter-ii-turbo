@@ -55,7 +55,6 @@
 				"name": "Sumo Smash",
 				"input": "{charge} :d: :u:+[K]"
 			},
-			//Oicho Throw
 			{
 				"name": "Oicho Throw",
 				"input": "{close} :hcb:+[P]"
