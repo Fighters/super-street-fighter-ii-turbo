@@ -1,0 +1,46 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Ken"
+		},
+		{
+			"region": "japan",
+			"roman": "Ken",
+			"original": "ケン"
+		}
+	],
+	"images": {
+		"face": "ken-old.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Shoulder Throw",
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Hell Wheel",
+				"input": "{close}, :b: {or} :f:+[MK] {or} [HK]"
+			}		
+		],
+		"{special-moves}": [
+			{
+				"name": "Hadoken",
+				"input": ":qcf:+[P]"
+			},
+			{
+				"name": "Shoryuken",
+				"input": ":dp:+[P]"
+			},
+			{
+				"name": "Tatsumaki Senpukyaku",
+				"input": ":qcb:+[K]"
+			},
+			{
+				"name": "Airborne Tatsumaki Senpukyaku",
+				"input": "{inAir} :qcb:+[K]"
+			}
+		]
+	}
+}

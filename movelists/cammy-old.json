@@ -1,0 +1,50 @@
+{
+	"names": [
+		{
+					"region": "default",
+					"roman": "Cammy"
+				},
+				{
+					"region": "japan",
+					"roman": "Cammy",
+					"original": "キャミィ"
+				}
+	],
+	"images": {
+		"face": "cammy-old.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Hooligan Suplex",
+				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Frankensteiner",
+				"input": "{close} :b: {or} :f:+[MK] {or} [HK]"
+			},
+			{
+				"name": "Flying Neck Breaker",
+				"input": "{inAirAndClose} :b: {or} :f:+[HP]"
+			},
+			{
+				"name": "Aerial Frankensteiner",
+				"input": "{inAirAndClose} :b: {or} :f:+[HK]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Spiral Arrow",
+				"input": ":qcf:+[K]"
+			},
+			{
+				"name": "Cannon Spike",
+				"input": ":dp:+[K]"
+			},
+			{
+				"name": "Axel Spin Knuckle",
+				"input": ":hcf:+[P]"
+			}
+		]
+	}
+}

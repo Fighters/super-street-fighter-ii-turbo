@@ -1,0 +1,84 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Ken"
+		},
+		{
+			"region": "japan",
+			"roman": "Ken",
+			"original": "ケン"
+		}
+	],
+	"images": {
+		"face": "ken.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Shoulder Throw",
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Knee Bash",
+				"input": "{close}, :b: {or} :f:+[MK]"
+			},
+			{
+				"name": "Hell Wheel",
+				"input": "{close}, :b: {or} :f:+[HK]"
+			},
+			{
+				"name": "Jigoku Fusha",
+				"input": "{inAirAndClose}, :b: {or} :f:+[MK] {or} [HK]"
+			}	
+		],
+		"{special-moves}": [
+			{
+				"name": "Hadoken",
+				"input": ":qcf:+[P]"
+			},
+			{
+				"name": "Shoryuken",
+				"input": ":dp:+[P]"
+			},
+			{
+				"name": "Tatsumaki Senpukyaku",
+				"input": ":qcb:+[K]"
+			},
+			{
+				"name": "Airborne Tatsumaki Senpukyaku",
+				"input": "{inAir} :qcb:+[K]"
+			},
+			{
+				"name": "Kamabarai Kick",
+				"input": ":qcf:+[K]"
+			},
+			{
+				"name": "Nataotoshi Kick",
+				"input": ":f::df::d:+[K]"
+			},
+			{
+				"name": "Oosotomawashi Kick",
+				"input": ":hcf:+[K]"
+			},
+			{
+				"name": "Inazuma Kick",
+				"input": "{hold} [K] {whileFunkyKicks}"
+			}
+		],
+		"{super-combo}": [
+			{
+				"name": "Shoryureppa",
+				"input": ":qcf::d::df:+[P]"
+			}
+		]
+	},
+	"custom_strings": {
+		"english": [
+			{ "whileFunkyKicks": "while performing Kamabarai Kick, Nataotoshi Kick or Oosotomawashi Kick"}
+		],
+		"portuguese": [
+			{ "whileFunkyKicks": "ao fazer Kamabarai Kick, Nataotoshi Kick ou Oosotomawashi Kick"}
+		]
+	}
+}

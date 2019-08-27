@@ -1,0 +1,66 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "T. Hawk"
+		},
+		{
+			"region": "japan",
+			"roman": "T. Hawk",
+			"original": "サンダー・ホーク"
+		}
+	],
+	"images": {
+		"face": "thawk.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Mexican Throw",
+				"input": "{close} :b: {or} :f:+[MP]"
+			},
+			{
+				"name": "Neck Hanging Tree",
+				"input": "{close} :b: {or} :f:+[HP]"
+			},
+			{
+				"name": "Elbow Stomping",
+				"input": "{close} :b: {or} :f:+[HK]"
+			}
+		],
+		"{unique-attacks}": [
+			{
+				"name": "Thrust Peak",
+				"input": ":b: {or} :f:+[LP]"
+			},
+			{
+				"name": "Heavy Shoulder",
+				"input": "{duringAngledJump} :d:+[MP]"
+			},
+			{
+				"name": "Heavy Body Press",
+				"input": "{duringAngledJump} :d:+[HP]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Tomahawk Buster",
+				"input": ":dp:+[P]"
+			},
+			{
+				"name": "Mexican Typhoon",
+				"input": "{close} :360:+[P]"
+			},
+			{
+				"name": "Condor Dive",
+				"input": "{inAir} [LP]+[MP]+[HP]"
+			}
+		],
+		"{super-combo}": [
+			{
+				"name": "Double Typhoon",
+				"input": "{close} :360::360:+[P]"
+			}
+		]
+	}
+}

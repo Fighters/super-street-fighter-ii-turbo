@@ -1,0 +1,74 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Chun-Li"
+		},
+		{
+			"region": "japan",
+			"roman": "Chun-Li",
+			"original": "チュンリー"
+		}
+	],
+	"images": {
+		"face": "chunli.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Koshuto",
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Ryuseiraku",
+				"input": "{inAirAndClose}, :b: {or} :f:+[MP] {or} [HP]"
+			}
+		],		
+		"{unique-attacks}": [
+			{
+				"name": "Rear Spin Kick",
+				"input": ":df:+[MK]"
+			},
+			{
+				"name": "Kakukyakuraku",
+				"input": ":df:+[HK]"
+			},
+			{
+				"name": "Yosokyaku",
+				"input": "{inAir}, :d:+[MK] {upTo3x}"
+			},
+			{
+				"name": "Wall Jump",
+				"input": "{duringJumpNearWall}, :f:"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Hyakuretsukyaku",
+				"input": "{tapKick}"
+			},
+			{
+				"name": "Kikoken",
+				"input": "{charge} :b: :f:+[P]"
+			},
+			{
+				"name": "Spinning Bird Kick",
+				"input": "{charge} :b: :f:+[K]"
+			},
+			{
+				"name": "Airborne Spinning Bird Kick",
+				"input": "{inAir}, {charge} :b: :f:+[K]"
+			},
+			{
+				"name": "Tenshokyaku",
+				"input": "{charge} :d: :u:+[K]"
+			}					
+		],
+		"{super-combo}": [
+			{
+				"name": "Senretsukyaku",
+				"input": "{charge} :b: :f::b::f:+[K]"
+			}
+		]
+	}
+}

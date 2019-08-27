@@ -1,0 +1,98 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Zangief"
+		},
+		{
+			"region": "japan",
+			"roman": "Zangief",
+			"original": "ザンギエフ"
+		}
+	],
+	"images": {
+		"face": "zangief.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Piledriver",
+				"input": "{close} :b: {or} :f:+[MP]"
+			},
+			{
+				"name": "Face Crunch",
+				"input": "{close} :b: {or} :f:+[HP]"
+			},
+			{
+				"name": "Brain Buster",
+				"input": "{close} :b: {or} :f:+[MK]"
+			},
+			{
+				"name": "Head Bite",
+				"input": "{close} :b: {or} :f:+[HK]"
+			},
+			{
+				"name": "Stomach Crunch",
+				"input": "{close} :d:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Aerial Russian Slam",
+				"input": "{inAirAndClose}, :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Aerial Launcher",
+				"input": "{inAirAndClose}, :b: {or} :f:+[MK] {or} [HK]"
+			}
+		],
+		"{unique-attacks}": [
+			{
+				"name": "Double Knee Drop",
+				"input": "{duringAngledJump} :d:+[LK]"
+			},
+			{
+				"name": "Flying Body Press",
+				"input": "{duringAngledJump} :d:+[HP]"
+			},
+			{
+				"name": "Flying Head Butt",
+				"input": "{duringVerticalJump} :u:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Leaping Head Butt",
+				"input": ":b: {or} :f:+[MP] {or} [HP]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Double Lariat",
+				"input": "[LP]+[MP]+[HP] ({use} :b: {or} :f: {toMove})"
+			},
+			{
+				"name": "High Speed Lariat",
+				"input": "[LK]+[MK]+[HK] ({use} :b: {or} :f: {toMove})"
+			},
+			{
+				"name": "Banishing Flat",
+				"input": ":f::df::d:+[P]"
+			}
+			{
+				"name": "Spinning Piledriver",
+				"input": ":360:+[P]"
+			},
+			{
+				"name": "Flying Powerbomb",
+				"input": "{far} :360:+[K]"
+			},
+			{
+				"name": "Atomic Suplex",
+				"input": "{close} :360:+[K]"
+			}
+		],
+		"{super-combo}": [
+			{
+				"name": "Final Atomic Buster",
+				"input": "{close} :360::360:+[P]"
+			}
+		]
+	}
+}

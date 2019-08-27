@@ -1,0 +1,48 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Blanka"
+		},
+		{
+			"region": "japan",
+			"roman": "Blanka",
+			"original": "ブランカ"
+		}
+	],
+	"images": {
+		"face": "blanka-old.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Wild Fang",
+				"input": "{close} :b: {or} :f:+[HP]"
+			}
+		],
+		"{unique-attacks}": [
+			{
+				"name": "Rock Crusher",
+				"input": "{close} :b: {or} :f:+[MP]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Electric Thunder",
+				"input": "{tapPunch}"
+			},
+			{
+				"name": "Rolling Attack",
+				"input": "{charge} :b: :f:+[P]"
+			},
+			{
+				"name": "Backstep Roll",
+				"input": "{charge} :b: :f:+[K]"
+			}
+			{
+				"name": "Vertical Rolling",
+				"input": "{charge} :d: :u:+[K]"
+			}
+		]
+	}
+}

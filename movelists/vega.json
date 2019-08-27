@@ -1,0 +1,86 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Vega"
+		},
+		{
+			"region": "japan",
+			"roman": "Balrog",
+			"original": "バルログ"
+		}
+	],
+	"images": {
+		"face": "vega.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Rainbow Suplex",
+				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Stardust Drop",
+				"input": "{inAirAndClose} :b: {or} :f:+[MP] {or} [HP]"
+			}
+		],
+		"{unique-attacks}": [
+			{
+				"name": "Wall Jump",
+				"input": "{duringJumpNearWall} :f:"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Rolling Crystal Flash",
+				"input": "{charge} :b: :f:+[P]"
+			},
+			{
+				"name": "Scarlet Terror",
+				"input": "{charge} :db: :f:+[K]"
+			},
+			{
+				"name": "Sky High Claw",
+				"input": "{charge} :d: :u:+[P]"
+			},
+			{
+				"name": "Flying Barcelona",
+				"input": "{charge} :d: :u:+[K]"
+			},
+			{
+				"name": "Flying Barcelona Attack",
+				"input": "[P]",
+				"after": "Flying Barcelona"
+			},
+			{
+				"name": "Izuna Drop",
+				"input": "{close} :b: {or} :f:+[P]",
+				"after": "Flying Barcelona"
+			},
+			{
+				"name": "Backslash",
+				"input": "[LP]+[MP]+[HP]"
+			},
+			{
+				"name": "Short Backslash",
+				"input": "[LK]+[MK]+[HK]"
+			}
+		],
+		"{super-combo}": [
+			{
+				"name": "Flying Barcelona Special",
+				"input": "{charge} :db: :df::db::uf:+[K]"
+			},
+			{
+				"name": "Flying Barcelona Special Attack",
+				"input": "[P]",
+				"after": "Flying Barcelona Special"
+			},
+			{
+				"name": "Rolling Izuna Drop",
+				"input": "{close} :b: {or} :f:+[P]",
+				"after": "Flying Barcelona Special"
+			}
+		]
+	}
+}

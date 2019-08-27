@@ -1,0 +1,95 @@
+{
+	"names": [
+		{
+					"region": "default",
+					"roman": "Cammy"
+				},
+				{
+					"region": "japan",
+					"roman": "Cammy",
+					"original": "キャミィ"
+				}
+	],
+	"images": {
+		"face": "cammy.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Hooligan Suplex",
+				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Frankensteiner",
+				"input": "{close} :b: {or} :f:+[MK] {or} [HK]"
+			},
+			{
+				"name": "Flying Neck Breaker",
+				"input": "{inAirAndClose} :b: {or} :f:+[HP]"
+			},
+			{
+				"name": "Aerial Frankensteiner",
+				"input": "{inAirAndClose} :b: {or} :f:+[HK]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Spiral Arrow",
+				"input": ":qcf:+[K]"
+			},
+			{
+				"name": "Cannon Spike",
+				"input": ":dp:+[K]"
+			},
+			{
+				"name": "Axel Spin Knuckle",
+				"input": ":b::db::f:+[P]"
+			},
+			{
+				"name": "Hooligan Combination",
+				"input": ":db::hcf::uf:+[P]"
+			},
+			{
+				"name": "Razor Edge Slicer",
+				"input": "{doNothing}",
+				"after": "Hooligan Combination"
+			},
+			{
+				"name": "Razor Edge Slicer",
+				"input": "{doNothing}",
+				"after": "Hooligan Combination"
+			},
+			{
+				"name": "Fatal Leg Twister",
+				"input": ":b: {or} :f:+[K] {nearOpponentHead}",
+				"after": "Hooligan Combination"
+			},
+			{
+				"name": "Fatal Leg Twister",
+				"input": ":b: {or} :f:+[K] {nearOpponentWaist}",
+				"after": "Hooligan Combination"
+			},
+			{
+				"name": "Cancel",
+				"input": "[K]",
+				"after": "Hooligan Combination"
+			}
+		],
+		"{super-combo}": [
+			{
+				"name": "Spin Drive Smasher",
+				"input": ":qcf::d::df:+[K]"
+			}
+		]
+	},
+	"custom_strings": {
+		"english": [
+			{ "nearOpponentHead": "near the opponent's head"},
+			{ "nearOpponentWaist": "near the opponent's waist"}
+		],
+		"portuguese": [
+			{ "nearOpponentHead": "próximo à cabeça do oponente"},
+			{ "nearOpponentWaist": "próximo à cintura do oponente"}
+		]
+	}
+}

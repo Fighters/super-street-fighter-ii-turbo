@@ -1,0 +1,66 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Blanka"
+		},
+		{
+			"region": "japan",
+			"roman": "Blanka",
+			"original": "ブランカ"
+		}
+	],
+	"images": {
+		"face": "blanka.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Wild Fang",
+				"input": "{close} :b: {or} :f:+[HP]"
+			}
+		],
+		"{unique-attacks}": [
+			{
+				"name": "Rock Crusher",
+				"input": "{close} :b: {or} :f:+[MP]"
+			},
+			{
+				"name": "Amazon River Run",
+				"input": ":df:+[HP]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Electric Thunder",
+				"input": "{tapPunch}"
+			},
+			{
+				"name": "Rolling Attack",
+				"input": "{charge} :b: :f:+[P]"
+			},
+			{
+				"name": "Backstep Roll",
+				"input": "{charge} :b: :f:+[K]"
+			}
+			{
+				"name": "Vertical Rolling",
+				"input": "{charge} :d: :u:+[K]"
+			},
+			{
+				"name": "Surprise Forward",
+				"input": ":f:+[LK]+[MK]+[HK]"
+			},
+			{
+				"name": "Surprise Back",
+				"input": ":b:+[LK]+[MK]+[HK]"
+			}
+		],
+		"{super-combo}": [
+			{
+				"name": "Ground Shave Rolling",
+				"input": "{charge} :b: :f::b::f:+[P] ({hold} [P] {toDelay})"
+			}
+		]
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "M. Bison"
+		},
+		{
+			"region": "japan",
+			"roman": "Vega",
+			"original": "ベガ"
+		}
+	],
+	"images": {
+		"face": "mbison-old.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Deadly Throw",
+				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Psycho Crusher",
+				"input": "{charge} :b: :f:+[P]"
+			},
+			{
+				"name": "Double Knee Press",
+				"input": "{charge} :b: :f:+[K]"
+			},
+			{
+				"name": "Devil Reverse",
+				"input": "{charge} :d: :u:+[P]"
+			},
+			{
+				"name": "Head Press",
+				"input": "{charge} :d: :u:+[K] ({use} :b: {or} :f: {toChangeTrajectory} {onHit})"
+			},
+			{
+				"name": "Somersault Skull Diver",
+				"input": "[P]",
+				"after": "Head Press"
+			}
+		]
+	}
+}

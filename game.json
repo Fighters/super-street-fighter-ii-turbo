@@ -1,0 +1,354 @@
+{
+	"romans": {
+		"regions": [
+			{ 
+				"region": "default",
+				"roman": "Super Street Fighter II Turbo"
+			},
+			{
+				"region": "japan",
+				"roman": "Super Street Fighter II X: Grand Master Challenge",
+				"original": "スーパーストリートファイターII X"
+			}
+		],
+		"also-known-as": [
+			"ssf2t", "ssf2x", "super turbo", "st"
+		]
+	},
+	"platforms": [
+		{
+			"platform": "Arcade",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Super Street Fighter II X: Grand Master Challenge",
+					"original": "スーパーストリートファイターII X",
+					"releaseDate": "02-23-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				},
+				{
+					"region": "United States",
+					"roman": "Super Street Fighter II Turbo",
+					"releaseDate": "02-23-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				},
+				{
+					"region": "Europe",
+					"roman": "Super Street Fighter II Turbo",
+					"releaseDate": "02-23-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				}
+			]
+		},
+		{
+			"platform": "3DO",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Super Street Fighter II X: Grand Master Challenge",
+					"original": "スーパーストリートファイターII X",
+					"releaseDate": "11-13-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "3do-jp-front.webp"
+				},
+				{
+					"region": "United States",
+					"roman": "Super Street Fighter II Turbo",
+					"releaseDate": "11-07-1994",
+					"developer": "Capcom",
+					"publisher": "Panasonic",
+					"coverFront": "3do-us-front.webp"
+				},
+				{
+					"region": "Europe",
+					"roman": "Super Street Fighter II Turbo",
+					"releaseDate": "11-23-1994",
+					"developer": "Capcom",
+					"publisher": "Panasonic"
+				}
+			]
+		},
+		{
+			"platform": "Amiga",
+			"regions": [
+				{
+					"region": "United States",
+					"roman": "Super Street Fighter II Turbo",
+					"releaseDate": "1995",
+					"developer": "Capcom",
+					"publisher": "GameTek",
+					"coverFront": "amiga-us-front.webp"
+				},
+				{
+					"region": "Europe",
+					"roman": "Super Street Fighter II Turbo",
+					"releaseDate": "1996",
+					"developer": "Capcom",
+					"publisher": "GameTek"
+				}
+			]
+		},
+		{
+			"platform": "PC",
+			"regions": [
+				{
+					"region": "United States",
+					"roman": "Super Street Fighter II Turbo",
+					"releaseDate": "1995",
+					"developer": "Capcom",
+					"publisher": "GameTek",
+					"coverFront": "pc-us-front.webp"
+				},
+				{
+					"region": "Europe",
+					"roman": "Super Street Fighter II Turbo",
+					"releaseDate": "1995",
+					"developer": "Capcom",
+					"publisher": "GameTek",
+					"coverFront": "pc-eu-front.webp"
+				}
+			]
+		},
+		{
+			"platform": "Dreamcast",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Super Street Fighter II X: Grand Master Challenge for Matching Service",
+					"original": "スーパーストリートファイターII X",
+					"releaseDate": "12-22-2000",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "dc-jp-front.webp"
+				}
+			]
+		}
+	],
+	"characters": [
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Ryu"
+				},
+				{
+					"region": "japan",
+					"roman": "Ryu",
+					"original": "リュウ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Ken Masters"
+				},
+				{
+					"region": "japan",
+					"roman": "Ken Masters",
+					"original": "ケン・マスターズ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Chun-Li"
+				},
+				{
+					"region": "japan",
+					"roman": "Chun-Li",
+					"original": "チュンリー"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Dhalsim"
+				},
+				{
+					"region": "japan",
+					"roman": "Dhalsim",
+					"original": "ダルシム"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "M. Bison"
+				},
+				{
+					"region": "japan",
+					"roman": "Vega",
+					"original": "ベガ"
+				}
+			]
+		},
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Vega"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Balrog",
+                    "original": "バルログ"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Zangief"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Zangief",
+                    "original": "ザンギエフ"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Guile"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Guile",
+                    "original": "ガイル"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Balrog"
+                },
+                {
+                    "region": "japan",
+                    "roman": "M. Bison",
+                    "original": "マイク・バイソン"
+                }
+            ]
+        },        
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Blanka"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Blanka",
+                    "original": "ブランカ"
+                }
+            ]
+        },        
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Sagat"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Sagat",
+                    "original": "サガット"
+                }
+            ]
+        },        
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Edmond Honda"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Edmond Honda",
+                    "original": "エドモンド本田"
+                }
+            ]
+        },
+        { 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Cammy White"
+				},
+				{
+					"region": "japan",
+					"roman": "Cammy White",
+					"original": "キャミィ・ホワイト"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Fei Long"
+				},
+				{
+					"region": "japan",
+					"roman": "Fei Long",
+					"original": "フェイロン"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Dee Jay"
+				},
+				{
+					"region": "japan",
+					"roman": "Dee Jay",
+					"original": "ディージェイ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Thunder Hawk"
+				},
+				{
+					"region": "japan",
+					"roman": "Thunder Hawk",
+					"original": "サンダー・ホーク"
+				}
+			]
+		},
+		{ 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Akuma"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Gouki",
+                    "original": "ゴウキ"
+                }
+            ]
+        }
+    ]
+}

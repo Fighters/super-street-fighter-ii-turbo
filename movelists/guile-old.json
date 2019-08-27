@@ -1,0 +1,56 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Guile"
+		},
+		{
+			"region": "japan",
+			"roman": "Guile",
+			"original": "ガイル"
+		}
+	],
+	"images": {
+		"face": "guile-old.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Judo Throw",
+				"input": "{close} :b: {or} :f:+[MP]"
+			},
+			{
+				"name": "Dragon Suplex",
+				"input": "{close} :b: {or} :f:+[HP]"
+			},			
+			{
+				"name": "Flying Mare",
+				"input": "{inAirAndClose} :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Flying Buster Drop",
+				"input": "{inAirAndClose} :b: {or} :f:+[MK] {or} [HK]"
+			}	
+		],
+		"{unique-attacks}": [
+			{
+				"name": "Knee Bazooka",
+				"input": ":b: {or} :f:+[MK]"
+			},
+			{
+				"name": "Reverse Spin Kick",
+				"input": "{close} :b: {or} :f:+[HK]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Sonic Boom",
+				"input": "{charge} :b: :f:+[P]"
+			},
+			{
+				"name": "Flash Kick",
+				"input": "{charge} :d: :u:+[K]"
+			}
+		]
+	}
+}

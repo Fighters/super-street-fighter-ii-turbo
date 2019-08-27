@@ -1,0 +1,58 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Akuma"
+		},
+		{
+ 			"region": "japan",
+			"roman": "Gouki",
+			"original": "ゴウキ"
+		}
+	],
+	"images": {
+		"face": "akuma.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Shoulder Throw",
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Somersault Throw",
+				"input": "{close}, :b: {or} :f:+[MK] {or} [HK]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Gohadoken",
+				"input": ":qcf:+[P]"
+			},
+			{
+				"name": "Shakunetsu Hadoken",
+				"input": ":hcf:+[P]"
+			},
+			{
+				"name": "Zanku Hadoken",
+				"input": "{inAir} :qcf:+[P]"
+			},
+			{
+				"name": "Goshoryuken",
+				"input": ":dp:+[P]"
+			},
+			{
+				"name": "Tatsumaki Zankukyaku",
+				"input": ":qcb:+[K]"
+			},
+			{
+				"name": "Airborne Tatsumaki Zankukyaku",
+				"input": "{inAir} :qcb:+[K]"
+			},
+			{
+				"name": "Ashura Senku",
+				"input": ":dp: {or} :rdp:+[LP]+[MP]+[HP] {or} [LK]+[MK]+[HK]"
+			}
+		]
+	}
+}

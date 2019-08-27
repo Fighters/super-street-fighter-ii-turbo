@@ -1,0 +1,63 @@
+{
+	"names": [
+		{
+					"region": "default",
+					"roman": "Fei Long"
+				},
+				{
+					"region": "japan",
+					"roman": "Fei Long",
+					"original": "フェイロン"
+				}
+	],
+	"images": {
+		"face": "feilong.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Gankaiho",
+				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Shushugai",
+				"input": "{close} :b: {or} :f:+[MK] {or} [HK]"
+			},
+			{
+				"name": "Shushuraku",
+				"input": "{inAirAndClose} :b: {or} :f:+[MP] {or} [HP]"
+			}
+		],
+		"{unique-attacks}": [
+			{
+				"name": "Chokkarakusho",
+				"input": ":b: {or} :f:+[MK]"
+			},
+			{
+				"name": "Engekishu",
+				"input": ":f:+[HK]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Rekkaken",
+				"input": ":qcf:+[P] {upTo3x}"
+			},
+			{
+				"name": "Shienkyaku",
+				"input": ":rdp:+[K]"
+			},
+			//Rekkukyaku
+			{
+				"name": "Rekkukyaku",
+				"input": ":db::hcf::uf: [K]"
+			}
+		],
+		"{super-combo}": [
+			{
+				"name": "Rekkashinken",
+				"input": ":qcf::qcf:+[P]"
+			}
+		]
+	}
+}

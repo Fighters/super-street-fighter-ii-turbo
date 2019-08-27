@@ -1,0 +1,42 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Sagat"
+		},
+		{
+			"region": "japan",
+			"roman": "Sagat",
+			"original": "サガット"
+		}
+	],
+	"images": {
+		"face": "sagat-old.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Tiger Carry",
+				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Tiger Shot",
+				"input": ":qcf:+[P]"
+			},
+			{
+				"name": "Ground Tiger Shot",
+				"input": ":qcf:+[K]"
+			},
+			{
+				"name": "Tiger Uppercut",
+				"input": ":dp:+[P]"
+			},
+			{
+				"name": "Tiger Knee Crush",
+				"input": ":qcf::f:+[K]"
+			}
+		]
+	}
+}

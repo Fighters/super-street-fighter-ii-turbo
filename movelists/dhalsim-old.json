@@ -1,0 +1,52 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Dhalsim"
+		},
+		{
+			"region": "japan",
+			"roman": "Dhalsim",
+			"original": "ダルシム"
+				}
+	],
+	"images": {
+		"face": "dhalsim-old.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Yoga Smash",
+				"input": "{close} :b: {or} :f:+[MP]"
+			},
+			{
+				"name": "Yoga Throw",
+				"input": "{close} :b: {or} :f:+[HP]"
+			}
+		],
+		"{unique-attacks}": [
+			{
+				"name": "Yoga Mummy",
+				"input": "{atJumpApex} :d:+[HP]"
+			},
+			{
+				"name": "Drill Kick",
+				"input": "{atJumpApex} :d:+[HK]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Yoga Fire",
+				"input": ":qcf:+[P]"
+			},
+			{
+				"name": "Yoga Flame",
+				"input": ":hcf:+[P]"
+			},
+			{
+				"name": "Yoga Teleport",
+				"input": ":dp: {or} :rdp:+[LP]+[MP]+[HP] {or} [LK]+[MK]+[HK]"
+			}
+		]
+	}
+}

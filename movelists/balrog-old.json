@@ -1,0 +1,42 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Balrog"
+		},
+		{
+			"region": "japan",
+			"roman": "M. Bison",
+			"original": "マイク・バイソン"
+		}
+	],
+	"images": {
+		"face": "balrog-old.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Head Bomber",
+				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Dash Straight",
+				"input": "{charge} :b: :f:+[P]"
+			},
+			{
+				"name": "Dash Upper",
+				"input": "{charge} :b: :f:+[K]"
+			},
+			{
+				"name": "Buffalo Headbutt",
+				"input": "{charge} :d: :u:+[P]"
+			},
+			{
+				"name": "Turn Punch",
+				"input": "{hold} [LP]+[MP]+[HP] {or} [LK]+[MK]+[HK] {then} {release}"
+			}
+		]
+	}
+}

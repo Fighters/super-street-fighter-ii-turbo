@@ -1,0 +1,30 @@
+{
+    "buttons": {
+        "Arcade": [
+            { "image": "layout.webp" },
+            { "LP": "LP" },
+            { "MP": "MP" },
+            { "HP": "HP" },
+            { "LK": "LK" },
+            { "MK": "MK" },
+            { "HK": "HK" }
+        ],
+        "Dreamcast": [
+            { "LP": "X" },
+            { "MP": "Y" },
+            { "HP": "L" },
+            { "LK": "A" },
+            { "MK": "B" },
+            { "HK": "R" }
+        ],
+        "3DO": [
+            { "LP": "L" },
+            { "MP": "P" },
+            { "HP": "R" },
+            { "LK": "A" },
+            { "MK": "B" },
+            { "HK": "C" }
+        ]
+    },
+    "hasUpgrades": false
+}

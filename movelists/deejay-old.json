@@ -1,0 +1,48 @@
+{
+	"names": [
+		{
+					"region": "default",
+					"roman": "Dee Jay"
+				},
+				{
+					"region": "japan",
+					"roman": "Dee Jay",
+					"original": "ディージェイ"
+				}
+	],
+	"images": {
+		"face": "deejay-old.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Funky Shout Throw",
+				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Flip Throw",
+				"input": "{close} :b: {or} :f:+[HK]"
+			}
+		],
+		"{unique-attacks}": [
+			{
+				"name": "Knee Shot",
+				"input": "{duringAngledJump} :d:+[LK]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Air Slasher",
+				"input": "{charge} :b: :f:+[P]"
+			},
+			{
+				"name": "Double Rolling Sobat",
+				"input": "{charge} :b: :f:+[K]"
+			},
+			{
+				"name": "Machinegun Upper",
+				"input": "{charge} :d: :u:+[P] ({tapPunch} {forMoreHits})"
+			}
+		]
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "E. Honda"
+		},
+		{
+			"region": "japan",
+			"roman": "E. Honda",
+			"original": "エドモンド本田"
+		}
+	],
+	"images": {
+		"face": "ehonda-old.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Tawara Throw",
+				"input": "{close} :b: {or} :f:+[MP]"
+			},
+			{
+				"name": "Saba-Ori",
+				"input": "{close} :b: {or} :f:+[HP]"
+			},
+			{
+				"name": "Sekkankyaku",
+				"input": "{close} :b: {or} :f:+[HK]"
+			}					
+		],
+		"{unique-attacks}": [
+			{
+				"name": "Knee Strike",
+				"input": "{close} :b: {or} :f:+[MK]"
+			},
+			{
+				"name": "Flying Sumo Press",
+				"input": "{duringAngledJump} :d:+[MK]"
+			}
+		],	
+		"{special-moves}": [
+			{
+				"name": "Hundred Hand Slap",
+				"input": "{tapPunch} ({use} :b: {or} :f: {toMove})"
+			},
+			{
+				"name": "Sumo Headbutt",
+				"input": "{charge} :b: :f:+[P]"
+			},
+			{
+				"name": "Sumo Smash",
+				"input": "{charge} :d: :u:+[K]"
+			}
+		]
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Ryu"
+		},
+		{
+			"region": "japan",
+			"roman": "Ryu",
+			"original": "リュウ"
+		}
+	],
+	"images": {
+		"face": "ryu-old.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Shoulder Throw",
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Somersault Throw",
+				"input": "{close}, :b: {or} :f:+[MK] {or} [HK]"
+			}		
+		],
+		"{special-moves}": [
+			{
+				"name": "Hadoken",
+				"input": ":qcf:+[P]"
+			},
+			{
+				"name": "Shakunetsu Hadoken",
+				"input": ":hcf:+[P]"
+			},
+			{
+				"name": "Shoryuken",
+				"input": ":dp:+[P]"
+			},
+			{
+				"name": "Tatsumaki Senpukyaku",
+				"input": ":qcb:+[K]"
+			},
+			{
+				"name": "Airborne Tatsumaki Senpukyaku",
+				"input": "{inAir} :qcb:+[K]"
+			}
+		]
+	}
+}
