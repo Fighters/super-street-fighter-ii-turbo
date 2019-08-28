@@ -68,7 +68,7 @@
 				"input": "[LP]+[MP]+[HP] ({use} :b: {or} :f: {toMove})"
 			},
 			{
-				"name": "High Speed Lariat",
+				"name": "Quick Double Lariat",
 				"input": "[LK]+[MK]+[HK] ({use} :b: {or} :f: {toMove})"
 			},
 			{
