@@ -1,0 +1,14 @@
+{
+    "english": {
+        "normalThrows": "Normal Throws",
+        "uniqueAttacks": "Unique Attacks",
+        "specialMoves": "Special Moves",
+        "superCombo": "Super Combo"
+    },
+    "portuguese": {
+        "normalThrows": "Agarrões Normais",
+        "uniqueAttacks": "Ataques Únicos",
+        "specialMoves": "Golpes Especiais",
+        "superCombo": "Super Combo"
+    }
+}
