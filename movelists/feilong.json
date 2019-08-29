@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-					"region": "default",
-					"roman": "Fei Long"
-				},
-				{
-					"region": "japan",
-					"roman": "Fei Long",
-					"original": "フェイロン"
-				}
-	],
+	"names": {
+		"default": {
+			"roman": "Fei Long"
+		},
+		"japan": {
+			"roman": "Fei Long",
+			"original": "フェイロン"
+		}
+	},
 	"images": {
 		"face": "feilong.webp"
 	},

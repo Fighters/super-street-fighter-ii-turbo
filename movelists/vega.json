@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
+	"names": {
+		"default": {
 			"roman": "Vega"
 		},
-		{
-			"region": "japan",
+		"japan": {
 			"roman": "Balrog",
 			"original": "バルログ"
 		}
-	],
+	},
 	"images": {
 		"face": "vega.webp"
 	},

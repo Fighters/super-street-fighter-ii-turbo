@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
-			"roman": "E. Honda"
+	"names": {
+		"default": {
+			"roman": "E. Honda (Old)"
 		},
-		{
-			"region": "japan",
-			"roman": "E. Honda",
+		"japan": {
+			"roman": "E. Honda (Old)",
 			"original": "エドモンド本田"
 		}
-	],
+	},
 	"images": {
 		"face": "ehonda-old.webp"
 	},

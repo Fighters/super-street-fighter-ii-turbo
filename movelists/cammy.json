@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-					"region": "default",
-					"roman": "Cammy"
-				},
-				{
-					"region": "japan",
-					"roman": "Cammy",
-					"original": "キャミィ"
-				}
-	],
+	"names": {
+		"default": {
+			"roman": "Cammy"
+		},
+		"japan": {
+			"roman": "Cammy",
+			"original": "キャミィ"
+		}
+	},
 	"images": {
 		"face": "cammy.webp"
 	},

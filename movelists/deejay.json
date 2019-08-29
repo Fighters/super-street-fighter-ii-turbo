@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-					"region": "default",
-					"roman": "Dee Jay"
-				},
-				{
-					"region": "japan",
-					"roman": "Dee Jay",
+	"names": {
+		"default": {
+			"roman": "Dee Jay"
+		},
+		"japan": {
+			"roman": "Dee Jay",
 					"original": "ディージェイ"
-				}
-	],
+		}
+	},
 	"images": {
 		"face": "deejay.webp"
 	},

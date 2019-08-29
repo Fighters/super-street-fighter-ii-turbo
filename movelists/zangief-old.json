@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
-			"roman": "Zangief"
+	"names": {
+		"default": {
+			"roman": "Zangief (Old)"
 		},
-		{
-			"region": "japan",
-			"roman": "Zangief",
+		"japan": {
+			"roman": "Zangief (Old)",
 			"original": "ザンギエフ"
 		}
-	],
+	},
 	"images": {
 		"face": "zangief-old.webp"
 	},

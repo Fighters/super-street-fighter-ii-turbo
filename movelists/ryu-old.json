@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
-			"roman": "Ryu"
+	"names": {
+		"default": {
+			"roman": "Ryu (Old)"
 		},
-		{
-			"region": "japan",
-			"roman": "Ryu",
+		"japan": {
+			"roman": "Ryu (Old)",
 			"original": "リュウ"
 		}
-	],
+	},
 	"images": {
 		"face": "ryu-old.webp"
 	},

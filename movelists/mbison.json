@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
+	"names": {
+		"default": {
 			"roman": "M. Bison"
 		},
-		{
-			"region": "japan",
+		"japan": {
 			"roman": "Vega",
 			"original": "ベガ"
 		}
-	],
+	},
 	"images": {
 		"face": "mbison.webp"
 	},

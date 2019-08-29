@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
-			"roman": "Balrog"
+	"names": {
+		"default": {
+			"roman": "Balrog (Old)"
 		},
-		{
-			"region": "japan",
-			"roman": "M. Bison",
+		"japan": {
+			"roman": "M. Bison (Old)",
 			"original": "マイク・バイソン"
 		}
-	],
+	},
 	"images": {
 		"face": "balrog-old.webp"
 	},

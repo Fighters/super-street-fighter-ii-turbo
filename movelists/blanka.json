@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
+	"names": {
+		"default": {
 			"roman": "Blanka"
 		},
-		{
-			"region": "japan",
+		"japan": {
 			"roman": "Blanka",
 			"original": "ブランカ"
 		}
-	],
+	},
 	"images": {
 		"face": "blanka.webp"
 	},

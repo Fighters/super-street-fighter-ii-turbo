@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
+	"names": {
+		"default": {
 			"roman": "Chun-Li"
 		},
-		{
-			"region": "japan",
+		"japan": {
 			"roman": "Chun-Li",
 			"original": "チュンリー"
 		}
-	],
+	},
 	"images": {
 		"face": "chunli.webp"
 	},

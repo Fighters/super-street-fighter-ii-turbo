@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
-			"roman": "Sagat"
+	"names": {
+		"default": {
+			"roman": "Sagat (Old)"
 		},
-		{
-			"region": "japan",
-			"roman": "Sagat",
+		"japan": {
+			"roman": "Sagat (Old)",
 			"original": "サガット"
 		}
-	],
+	},
 	"images": {
 		"face": "sagat-old.webp"
 	},

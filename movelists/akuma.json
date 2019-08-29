@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
+	"names": {
+		"default": {
 			"roman": "Akuma"
 		},
-		{
- 			"region": "japan",
+		"japan": {
 			"roman": "Gouki",
 			"original": "ゴウキ"
 		}
-	],
+	},
 	"images": {
 		"face": "akuma.webp"
 	},

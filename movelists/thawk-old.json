@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
-			"roman": "T. Hawk"
+	"names": {
+		"default": {
+			"roman": "T. Hawk (Old)"
 		},
-		{
-			"region": "japan",
-			"roman": "T. Hawk",
+		"japan": {
+			"roman": "T. Hawk  (Old)",
 			"original": "サンダー・ホーク"
 		}
-	],
+	},
 	"images": {
 		"face": "thawk-old.webp"
 	},

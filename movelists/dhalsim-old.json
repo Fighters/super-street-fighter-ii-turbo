@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
-			"roman": "Dhalsim"
+	"names": {
+		"default": {
+			"roman": "Dhalsim (Old)"
 		},
-		{
-			"region": "japan",
-			"roman": "Dhalsim",
+		"japan": {
+			"roman": "Dhalsim (Old)",
 			"original": "ダルシム"
-				}
-	],
+		}
+	},
 	"images": {
 		"face": "dhalsim-old.webp"
 	},

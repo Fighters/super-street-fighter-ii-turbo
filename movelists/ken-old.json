@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
-			"roman": "Ken"
+	"names": {
+		"default": {
+			"roman": "Ken (Old)"
 		},
-		{
-			"region": "japan",
-			"roman": "Ken",
+		"japan": {
+			"roman": "Ken (Old)",
 			"original": "ケン"
 		}
-	],
+	},
 	"images": {
 		"face": "ken-old.webp"
 	},

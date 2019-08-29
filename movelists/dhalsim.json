@@ -1,15 +1,13 @@
 {
-	"names": [
-		{
-			"region": "default",
+	"names": {
+		"default": {
 			"roman": "Dhalsim"
 		},
-		{
-			"region": "japan",
+		"japan": {
 			"roman": "Dhalsim",
 			"original": "ダルシム"
-				}
-	],
+		}
+	},
 	"images": {
 		"face": "dhalsim.webp"
 	},
