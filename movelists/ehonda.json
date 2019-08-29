@@ -14,7 +14,7 @@
 		"face": "ehonda.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Tawara Throw",
 				"input": "{close} :b: {or} :f:+[MP]"
@@ -28,7 +28,7 @@
 				"input": "{close} :b: {or} :f:+[HK]"
 			}					
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Knee Strike",
 				"input": "{close} :b: {or} :f:+[MK]"
@@ -42,7 +42,7 @@
 				"input": "{duringAngledJump} :d:+[MK]"
 			}
 		],	
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Hundred Hand Slap",
 				"input": "{tapPunch}"
@@ -60,7 +60,7 @@
 				"input": "{close} :hcb:+[P]"
 			}
 		],
-		"{super-combo}": [
+		"{superCombo}": [
 			{
 				"name": "Super Killer Head Ram",
 				"input": "{charge} :b: :f::b::f:+[P]"

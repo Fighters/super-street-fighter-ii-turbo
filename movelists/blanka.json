@@ -14,13 +14,13 @@
 		"face": "blanka.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Wild Fang",
 				"input": "{close} :b: {or} :f:+[HP]"
 			}
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Rock Crusher",
 				"input": "{close} :b: {or} :f:+[MP]"
@@ -30,7 +30,7 @@
 				"input": ":df:+[HP]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Electric Thunder",
 				"input": "{tapPunch}"
@@ -56,7 +56,7 @@
 				"input": ":b:+[LK]+[MK]+[HK]"
 			}
 		],
-		"{super-combo}": [
+		"{superCombo}": [
 			{
 				"name": "Ground Shave Rolling",
 				"input": "{charge} :b: :f::b::f:+[P] ({hold} [P] {toDelay})"

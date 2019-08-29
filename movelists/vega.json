@@ -14,7 +14,7 @@
 		"face": "vega.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Rainbow Suplex",
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
@@ -24,13 +24,13 @@
 				"input": "{inAirAndClose} :b: {or} :f:+[MP] {or} [HP]"
 			}
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Wall Jump",
 				"input": "{duringJumpNearWall} :f:"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Rolling Crystal Flash",
 				"input": "{charge} :b: :f:+[P]"
@@ -66,7 +66,7 @@
 				"input": "[LK]+[MK]+[HK]"
 			}
 		],
-		"{super-combo}": [
+		"{superCombo}": [
 			{
 				"name": "Flying Barcelona Special",
 				"input": "{charge} :db: :df::db::uf:+[K]"

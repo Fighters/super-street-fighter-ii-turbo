@@ -14,7 +14,7 @@
 		"face": "dhalsim.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Yoga Smash",
 				"input": "{close} :b: {or} :f:+[MP]"
@@ -24,7 +24,7 @@
 				"input": "{close} :b: {or} :f:+[HP]"
 			}
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Yoga Mummy",
 				"input": "{inAir} :d:+[HP]"
@@ -34,7 +34,7 @@
 				"input": "{inAir} :d:+[K]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Yoga Fire",
 				"input": ":qcf:+[P]"
@@ -52,7 +52,7 @@
 				"input": ":dp: {or} :rdp:+[LP]+[MP]+[HP] {or} [LK]+[MK]+[HK]"
 			}
 		],
-		"{super-combo}": [
+		"{superCombo}": [
 			{
 				"name": "Yoga Inferno",
 				"input": ":hcf::hcf:+[P]"

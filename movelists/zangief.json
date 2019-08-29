@@ -14,7 +14,7 @@
 		"face": "zangief.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Piledriver",
 				"input": "{close} :b: {or} :f:+[MP]"
@@ -44,7 +44,7 @@
 				"input": "{inAirAndClose}, :b: {or} :f:+[MK] {or} [HK]"
 			}
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Double Knee Drop",
 				"input": "{duringAngledJump} :d:+[LK]"
@@ -62,7 +62,7 @@
 				"input": ":b: {or} :f:+[MP] {or} [HP]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Double Lariat",
 				"input": "[LP]+[MP]+[HP] ({use} :b: {or} :f: {toMove})"
@@ -88,7 +88,7 @@
 				"input": "{close} :360:+[K]"
 			}
 		],
-		"{super-combo}": [
+		"{superCombo}": [
 			{
 				"name": "Final Atomic Buster",
 				"input": "{close} :360::360:+[P]"

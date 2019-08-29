@@ -14,19 +14,19 @@
 		"face": "blanka-old.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Wild Fang",
 				"input": "{close} :b: {or} :f:+[HP]"
 			}
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Rock Crusher",
 				"input": "{close} :b: {or} :f:+[MP]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Electric Thunder",
 				"input": "{tapPunch}"

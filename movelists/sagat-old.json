@@ -14,13 +14,13 @@
 		"face": "sagat-old.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Tiger Carry",
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Tiger Shot",
 				"input": ":qcf:+[P]"

@@ -14,13 +14,13 @@
 		"face": "mbison-old.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Deadly Throw",
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Psycho Crusher",
 				"input": "{charge} :b: :f:+[P]"

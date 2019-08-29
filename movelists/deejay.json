@@ -14,7 +14,7 @@
 		"face": "deejay.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Funky Shout Throw",
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
@@ -24,13 +24,13 @@
 				"input": "{close} :b: {or} :f:+[HK]"
 			}
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Knee Shot",
 				"input": "{duringAngledJump} :d:+[LK]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Air Slasher",
 				"input": "{charge} :b: :f:+[P]"
@@ -48,7 +48,7 @@
 				"input": "{charge} :d: :u:+[K]"
 			}
 		],
-		"{super-combo}": [
+		"{superCombo}": [
 			{
 				"name": "Sobat Carnival",
 				"input": "{charge} :b: :f::b::f:+[K]"

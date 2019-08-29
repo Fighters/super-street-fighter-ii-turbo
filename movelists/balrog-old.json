@@ -14,13 +14,13 @@
 		"face": "balrog-old.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Head Bomber",
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Dash Straight",
 				"input": "{charge} :b: :f:+[P]"

@@ -14,13 +14,13 @@
 		"face": "sagat.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Tiger Carry",
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Tiger Shot",
 				"input": ":qcf:+[P]"
@@ -38,7 +38,7 @@
 				"input": ":qcf::f:+[K]"
 			}
 		],
-		"{super-combo}": [
+		"{superCombo}": [
 			{
 				"name": "Tiger Genocide",
 				"input": ":qcf::d::df:+[P]"

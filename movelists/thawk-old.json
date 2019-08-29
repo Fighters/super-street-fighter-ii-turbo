@@ -14,7 +14,7 @@
 		"face": "thawk-old.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Mexican Throw",
 				"input": "{close} :b: {or} :f:+[MP]"
@@ -28,7 +28,7 @@
 				"input": "{close} :b: {or} :f:+[HK]"
 			}
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Thrust Peak",
 				"input": ":b: {or} :f:+[LP]"
@@ -42,7 +42,7 @@
 				"input": "{duringAngledJump} :d:+[HP]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Tomahawk Buster",
 				"input": ":dp:+[P]"

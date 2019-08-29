@@ -14,7 +14,7 @@
 		"face": "cammy-old.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Hooligan Suplex",
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
@@ -32,7 +32,7 @@
 				"input": "{inAirAndClose} :b: {or} :f:+[HK]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Spiral Arrow",
 				"input": ":qcf:+[K]"

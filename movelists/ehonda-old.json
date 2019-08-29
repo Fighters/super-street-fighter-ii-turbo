@@ -14,7 +14,7 @@
 		"face": "ehonda-old.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Tawara Throw",
 				"input": "{close} :b: {or} :f:+[MP]"
@@ -28,7 +28,7 @@
 				"input": "{close} :b: {or} :f:+[HK]"
 			}					
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Knee Strike",
 				"input": "{close} :b: {or} :f:+[MK]"
@@ -38,7 +38,7 @@
 				"input": "{duringAngledJump} :d:+[MK]"
 			}
 		],	
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Hundred Hand Slap",
 				"input": "{tapPunch} ({use} :b: {or} :f: {toMove})"

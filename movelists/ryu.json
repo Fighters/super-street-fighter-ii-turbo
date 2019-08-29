@@ -14,7 +14,7 @@
 		"face": "ryu.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Shoulder Throw",
 				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
@@ -24,7 +24,7 @@
 				"input": "{close}, :b: {or} :f:+[MK] {or} [HK]"
 			}
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Collarbone Breaker",
 				"input": ":f:+[MP]"
@@ -34,7 +34,7 @@
 				"input": ":f:+[HP]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Hadoken",
 				"input": ":qcf:+[P]"
@@ -56,7 +56,7 @@
 				"input": "{inAir} :qcb:+[K]"
 			}
 		],
-		"{super-combo}": [
+		"{superCombo}": [
 			{
 				"name": "Shinku Hadoken",
 				"input": ":qcf::qcf:+[P]"

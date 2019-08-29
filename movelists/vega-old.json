@@ -14,7 +14,7 @@
 		"face": "vega-old.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Rainbow Suplex",
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
@@ -24,7 +24,7 @@
 				"input": "{inAirAndClose} :b: {or} :f:+[MP] {or} [HP]"
 			}
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Backslash",
 				"input": "[LP]+[MP]+[HP]"
@@ -38,7 +38,7 @@
 				"input": "{duringJumpNearWall} :f:"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Rolling Crystal Flash",
 				"input": "{charge} :b: :f:+[P]"

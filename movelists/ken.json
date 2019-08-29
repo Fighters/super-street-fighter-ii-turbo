@@ -14,7 +14,7 @@
 		"face": "ken.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Shoulder Throw",
 				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
@@ -32,7 +32,7 @@
 				"input": "{inAirAndClose}, :b: {or} :f:+[MK] {or} [HK]"
 			}	
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Hadoken",
 				"input": ":qcf:+[P]"
@@ -66,7 +66,7 @@
 				"input": "{hold} [K] {whileFunkyKicks}"
 			}
 		],
-		"{super-combo}": [
+		"{superCombo}": [
 			{
 				"name": "Shoryureppa",
 				"input": ":qcf::d::df:+[P]"

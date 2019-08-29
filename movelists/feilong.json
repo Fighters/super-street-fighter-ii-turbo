@@ -14,7 +14,7 @@
 		"face": "feilong.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Gankaiho",
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
@@ -28,7 +28,7 @@
 				"input": "{inAirAndClose} :b: {or} :f:+[MP] {or} [HP]"
 			}
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Chokkarakusho",
 				"input": ":b: {or} :f:+[MK]"
@@ -38,7 +38,7 @@
 				"input": ":f:+[HK]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Rekkaken",
 				"input": ":qcf:+[P] {upTo3x}"
@@ -52,7 +52,7 @@
 				"input": ":db::hcf::uf: [K]"
 			}
 		],
-		"{super-combo}": [
+		"{superCombo}": [
 			{
 				"name": "Rekkashinken",
 				"input": ":qcf::qcf:+[P]"

@@ -14,7 +14,7 @@
 		"face": "feilong-old.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Gankaiho",
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
@@ -24,7 +24,7 @@
 				"input": "{close} :b: {or} :f:+[MK] {or} [HK]"
 			}
 		],
-		"{unique-attacks}": [
+		"{uniqueAttacks}": [
 			{
 				"name": "Chokkarakusho",
 				"input": ":b: {or} :f:+[MK]"
@@ -34,7 +34,7 @@
 				"input": ":b: {or} :f:+[HK]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Rekkaken",
 				"input": ":qcf:+[P] {upTo3x}"

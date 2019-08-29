@@ -14,13 +14,13 @@
 		"face": "mbison.webp"
 	},
 	"moves": {
-		"{normal-throws}": [
+		"{normalThrows}": [
 			{
 				"name": "Deadly Throw",
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
 			}
 		],
-		"{special-moves}": [
+		"{specialMoves}": [
 			{
 				"name": "Psycho Crusher",
 				"input": "{charge} :b: :f:+[P]"
@@ -43,7 +43,7 @@
 				"after": "Head Press"
 			}
 		],
-		"{super-combo}": [
+		"{superCombo}": [
 			{
 				"name": "Knee Press Nightmare",
 				"input": "{charge} :b: :f::b::f:+[K]"
