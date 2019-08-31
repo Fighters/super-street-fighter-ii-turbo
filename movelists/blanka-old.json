@@ -36,7 +36,7 @@
 			{
 				"name": "Backstep Roll",
 				"input": "{charge} :b: :f:+[K]"
-			}
+			},
 			{
 				"name": "Vertical Rolling",
 				"input": "{charge} :d: :u:+[K]"
