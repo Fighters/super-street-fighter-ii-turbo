@@ -22,12 +22,12 @@
 				"input": "{close} :b: {or} :f:+[MK] {or} [HK]"
 			},
 			{
-				"name": "Flying Neck Breaker",
-				"input": "{inAirAndClose} :b: {or} :f:+[HP]"
+				"name": "Flying Neck Hunt",
+				"input": "{inAirAndClose} :b: {or} :f:+[MP] {or} [HP]"
 			},
 			{
 				"name": "Aerial Frankensteiner",
-				"input": "{inAirAndClose} :b: {or} :f:+[HK]"
+				"input": "{inAirAndClose} :b: {or} :f:+[MK] {or} [HK]"
 			}
 		],
 		"{specialMoves}": [

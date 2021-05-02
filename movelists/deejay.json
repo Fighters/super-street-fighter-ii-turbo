@@ -18,8 +18,8 @@
 				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
 			},
 			{
-				"name": "Flip Throw",
-				"input": "{close} :b: {or} :f:+[HK]"
+				"name": "Monkey Flip",
+				"input": "{close} :b: {or} :f:+[MK] {or} [HK]"
 			}
 		],
 		"{uniqueAttacks}": [

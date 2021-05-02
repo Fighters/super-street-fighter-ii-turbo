@@ -18,7 +18,7 @@
 				"input": "{close} :b: {or} :f:+[MP]"
 			},
 			{
-				"name": "Face Crunch",
+				"name": "Iron Claw",
 				"input": "{close} :b: {or} :f:+[HP]"
 			},
 			{
@@ -26,19 +26,19 @@
 				"input": "{close} :b: {or} :f:+[MK]"
 			},
 			{
-				"name": "Head Bite",
+				"name": "Bite",
 				"input": "{close} :b: {or} :f:+[HK]"
 			},
 			{
-				"name": "Stomach Crunch",
+				"name": "Stomach Claw",
 				"input": "{close} :d:+[MP] {or} [HP]"
 			},
 			{
-				"name": "Aerial Russian Slam",
+				"name": "Aerial Deadly Drive",
 				"input": "{inAirAndClose}, :b: {or} :f:+[MP] {or} [HP]"
 			},
 			{
-				"name": "Aerial Launcher",
+				"name": "Aerial Leg Throw",
 				"input": "{inAirAndClose}, :b: {or} :f:+[MK] {or} [HK]"
 			}
 		],
