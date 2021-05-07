@@ -15,19 +15,19 @@
 		"{normalThrows}": [
 			{
 				"name": "Judo Throw",
-				"input": "{close} :b: {or} :f:+[MP]"
+				"input": "{close}, :b: {or} :f:+[MP]"
 			},
 			{
 				"name": "Dragon Suplex",
-				"input": "{close} :b: {or} :f:+[HP]"
+				"input": "{close}, :b: {or} :f:+[HP]"
 			},			
 			{
 				"name": "Flying Mare",
-				"input": "{inAirAndClose} :b: {or} :f:+[MP] {or} [HP]"
+				"input": "{inAirAndClose}, :b: {or} :f:+[MP] {or} [HP]"
 			},
 			{
 				"name": "Flying Buster Drop",
-				"input": "{inAirAndClose} :b: {or} :f:+[MK] {or} [HK]"
+				"input": "{inAirAndClose}, :b: {or} :f:+[MK] {or} [HK]"
 			}	
 		],
 		"{uniqueAttacks}": [
@@ -37,7 +37,7 @@
 			},
 			{
 				"name": "Reverse Spin Kick",
-				"input": "{close} :b: {or} :f:+[HK]"
+				"input": "{close}, :b: {or} :f:+[HK]"
 			}
 		],
 		"{specialMoves}": [
