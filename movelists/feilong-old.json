@@ -15,11 +15,11 @@
 		"{normalThrows}": [
 			{
 				"name": "Gankaiho",
-				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
 			},
 			{
 				"name": "Shushugai",
-				"input": "{close} :b: {or} :f:+[MK] {or} [HK]"
+				"input": "{close}, :b: {or} :f:+[MK] {or} [HK]"
 			}
 		],
 		"{uniqueAttacks}": [
@@ -35,7 +35,7 @@
 		"{specialMoves}": [
 			{
 				"name": "Rekkaken",
-				"input": ":qcf:+[P] {upTo3x}"
+				"input": ":qcf:+[P] ({upTo3x})"
 			},
 			{
 				"name": "Shienkyaku",
