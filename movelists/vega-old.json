@@ -15,25 +15,25 @@
 		"{normalThrows}": [
 			{
 				"name": "Rainbow Suplex",
-				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
 			},
 			{
 				"name": "Stardust Drop",
-				"input": "{inAirAndClose} :b: {or} :f:+[MP] {or} [HP]"
+				"input": "{inAirAndClose}, :b: {or} :f:+[MP] {or} [HP]"
 			}
 		],
 		"{uniqueAttacks}": [
 			{
 				"name": "Backslash",
-				"input": "[LP]+[MP]+[HP]"
+				"input": "{press} [LP]+[MP]+[HP]"
 			},
 			{
 				"name": "Short Backslash",
-				"input": "[LK]+[MK]+[HK]"
+				"input": "{press} [LK]+[MK]+[HK]"
 			},
 			{
 				"name": "Wall Jump",
-				"input": "{duringJumpNearWall} :f:"
+				"input": "{duringJumpNearWall}, :f:"
 			}
 		],
 		"{specialMoves}": [
@@ -51,12 +51,12 @@
 			},
 			{
 				"name": "Flying Barcelona Attack",
-				"input": "[P]",
+				"input": "{press} [P]",
 				"after": "Flying Barcelona"
 			},
 			{
 				"name": "Izuna Drop",
-				"input": "{close} :b: {or} :f:+[P]",
+				"input": "{close}, :b: {or} :f:+[P]",
 				"after": "Flying Barcelona"
 			}
 		]
