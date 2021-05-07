@@ -15,25 +15,25 @@
 		"{normalThrows}": [
 			{
 				"name": "Tawara Throw",
-				"input": "{close} :b: {or} :f:+[MP]"
+				"input": "{close}, :b: {or} :f:+[MP]"
 			},
 			{
 				"name": "Saba-Ori",
-				"input": "{close} :b: {or} :f:+[HP]"
+				"input": "{close}, :b: {or} :f:+[HP]"
 			},
 			{
-				"name": "Sekkankyaku",
-				"input": "{close} :b: {or} :f:+[HK]"
+				"name": "Sekkankeri",
+				"input": "{close}, :b: {or} :f:+[HK]"
 			}					
 		],
 		"{uniqueAttacks}": [
 			{
 				"name": "Hiza-Geri",
-				"input": "{close} :b: {or} :f:+[MK]"
+				"input": "{close}, :b: {or} :f:+[MK]"
 			},
 			{
 				"name": "Flying Sumo Press",
-				"input": "{duringAngledJump} :d:+[MK]"
+				"input": "{duringAngledJump}, :d:+[MK]"
 			}
 		],	
 		"{specialMoves}": [
