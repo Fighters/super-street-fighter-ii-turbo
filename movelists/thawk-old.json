@@ -15,15 +15,15 @@
 		"{normalThrows}": [
 			{
 				"name": "Mexican Throw",
-				"input": "{close} :b: {or} :f:+[MP]"
+				"input": "{close}, :b: {or} :f:+[MP]"
 			},
 			{
 				"name": "Neck Hanging Tree",
-				"input": "{close} :b: {or} :f:+[HP]"
+				"input": "{close}, :b: {or} :f:+[HP]"
 			},
 			{
 				"name": "Elbow Stomping",
-				"input": "{close} :b: {or} :f:+[HK]"
+				"input": "{close}, :b: {or} :f:+[HK]"
 			}
 		],
 		"{uniqueAttacks}": [
@@ -33,11 +33,11 @@
 			},
 			{
 				"name": "Heavy Shoulder",
-				"input": "{duringAngledJump} :d:+[MP]"
+				"input": "{duringAngledJump}, :d:+[MP]"
 			},
 			{
 				"name": "Heavy Body Press",
-				"input": "{duringAngledJump} :d:+[HP]"
+				"input": "{duringAngledJump}, :d:+[HP]"
 			}
 		],
 		"{specialMoves}": [
@@ -47,11 +47,11 @@
 			},
 			{
 				"name": "Mexican Typhoon",
-				"input": "{close} :360:+[P]"
+				"input": "{close}, :360:+[P]"
 			},
 			{
 				"name": "Condor Dive",
-				"input": "{inAir} [LP]+[MP]+[HP]"
+				"input": "{inAir}, {press} [LP]+[MP]+[HP]"
 			}
 		]
 	}
