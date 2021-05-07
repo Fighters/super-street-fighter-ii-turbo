@@ -15,17 +15,17 @@
 		"{normalThrows}": [
 			{
 				"name": "Funky Shout Throw",
-				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
 			},
 			{
-				"name": "Flip Throw",
-				"input": "{close} :b: {or} :f:+[HK]"
+				"name": "Monkey Flip",
+				"input": "{close}, :b: {or} :f:+[HK]"
 			}
 		],
 		"{uniqueAttacks}": [
 			{
 				"name": "Knee Shot",
-				"input": "{duringAngledJump} :d:+[LK]"
+				"input": "{duringAngledJump}, :d:+[LK]"
 			}
 		],
 		"{specialMoves}": [
