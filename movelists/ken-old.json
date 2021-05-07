@@ -37,7 +37,7 @@
 			},
 			{
 				"name": "Airborne Tatsumaki Senpukyaku",
-				"input": "{inAir} :qcb:+[K]"
+				"input": "{inAir}, :qcb:+[K]"
 			}
 		]
 	}
