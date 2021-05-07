@@ -15,21 +15,21 @@
 		"{normalThrows}": [
 			{
 				"name": "Yoga Smash",
-				"input": "{close} :b: {or} :f:+[MP]"
+				"input": "{close}, :b: {or} :f:+[MP]"
 			},
 			{
 				"name": "Yoga Throw",
-				"input": "{close} :b: {or} :f:+[HP]"
+				"input": "{close}, :b: {or} :f:+[HP]"
 			}
 		],
 		"{uniqueAttacks}": [
 			{
 				"name": "Yoga Mummy",
-				"input": "{inAir} :d:+[HP]"
+				"input": "{inAir}, :d:+[HP]"
 			},
 			{
 				"name": "Drill Kick",
-				"input": "{inAir} :d:+[HK]"
+				"input": "{inAir}, :d:+[HK]"
 			}
 		],
 		"{specialMoves}": [
@@ -42,8 +42,12 @@
 				"input": ":hcf:+[P]"
 			},
 			{
-				"name": "Yoga Teleport",
-				"input": ":dp: {or} :rdp:+[LP]+[MP]+[HP] {or} [LK]+[MK]+[HK]"
+				"name": "Yoga Teleport (Forward)",
+				"input": ":dp:+[LP]+[MP]+[HP] {or} [LK]+[MK]+[HK]"
+			},
+			{
+				"name": "Yoga Teleport (Back)",
+				"input": ":rdp:+[LP]+[MP]+[HP] {or} [LK]+[MK]+[HK]"
 			}
 		]
 	}
