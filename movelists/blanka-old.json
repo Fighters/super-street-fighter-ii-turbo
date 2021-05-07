@@ -15,13 +15,13 @@
 		"{normalThrows}": [
 			{
 				"name": "Wild Fang",
-				"input": "{close} :b: {or} :f:+[HP]"
+				"input": "{close}, :b: {or} :f:+[HP]"
 			}
 		],
 		"{uniqueAttacks}": [
 			{
 				"name": "Rock Crusher",
-				"input": "{close} :b: {or} :f:+[MP]"
+				"input": "{close}, :b: {or} :f:+[MP]"
 			}
 		],
 		"{specialMoves}": [
