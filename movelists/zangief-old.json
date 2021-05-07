@@ -59,11 +59,11 @@
 		"{specialMoves}": [
 			{
 				"name": "Double Lariat",
-				"input": "[LP]+[MP]+[HP] ({use} :b: {or} :f: {toMove})"
+				"input": "{press} [LP]+[MP]+[HP] ({use} :b: {or} :f: {toMove})"
 			},
 			{
 				"name": "High Speed Lariat",
-				"input": "[LK]+[MK]+[HK] ({use} :b: {or} :f: {toMove})"
+				"input": "{press} [LK]+[MK]+[HK] ({use} :b: {or} :f: {toMove})"
 			},
 			{
 				"name": "Spinning Piledriver",
