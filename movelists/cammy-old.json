@@ -15,19 +15,19 @@
 		"{normalThrows}": [
 			{
 				"name": "Hooligan Suplex",
-				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
 			},
 			{
 				"name": "Frankensteiner",
-				"input": "{close} :b: {or} :f:+[MK] {or} [HK]"
+				"input": "{close}, :b: {or} :f:+[MK] {or} [HK]"
 			},
 			{
 				"name": "Flying Neck Breaker",
-				"input": "{inAirAndClose} :b: {or} :f:+[HP]"
+				"input": "{inAirAndClose}, :b: {or} :f:+[HP]"
 			},
 			{
-				"name": "Aerial Frankensteiner",
-				"input": "{inAirAndClose} :b: {or} :f:+[HK]"
+				"name": "Air Frankensteiner",
+				"input": "{inAirAndClose}, :b: {or} :f:+[HK]"
 			}
 		],
 		"{specialMoves}": [
