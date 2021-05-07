@@ -15,7 +15,7 @@
 		"{normalThrows}": [
 			{
 				"name": "Deadly Throw",
-				"input": "{close} :b: {or} :f:+[MP] {or} [HP]"
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
 			}
 		],
 		"{specialMoves}": [
@@ -37,7 +37,7 @@
 			},
 			{
 				"name": "Somersault Skull Diver",
-				"input": "[P]",
+				"input": "{press} [P]",
 				"after": "Head Press"
 			}
 		]
