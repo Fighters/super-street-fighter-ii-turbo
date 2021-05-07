@@ -26,9 +26,9 @@
 				"input": "{close}, :b: {or} :f:+[HK]"
 			},
 			{
-				"name": "Jigoku Fusha",
+				"name": "Airborne Hell Wheel",
 				"input": "{inAirAndClose}, :b: {or} :f:+[MK] {or} [HK]"
-			}	
+			}
 		],
 		"{specialMoves}": [
 			{
@@ -48,20 +48,31 @@
 				"input": "{inAir} :qcb:+[K]"
 			},
 			{
-				"name": "Kamabarai Kick",
+				"name": "Kamabaraigeri",
 				"input": ":qcf:+[K]"
 			},
 			{
-				"name": "Nataotoshi Kick",
+				"name": "Inazuma Kick",
+				"input": "{hold} [K]",
+				"after": "Kamabaraigeri"
+			},
+			{
+				"name": "Nataotoshigeri",
 				"input": ":f::df::d:+[K]"
 			},
 			{
-				"name": "Oosotomawashi Kick",
+				"name": "Inazuma Kick",
+				"input": "{hold} [K]",
+				"after": "Nataotoshigeri"
+			},
+			{
+				"name": "Osoto Mawashigeri",
 				"input": ":hcf:+[K]"
 			},
 			{
 				"name": "Inazuma Kick",
-				"input": "{hold} [K] {whileFunkyKicks}"
+				"input": "{hold} [K]",
+				"after": "Osoto Mawashigeri"
 			}
 		],
 		"{superCombo}": [
@@ -72,11 +83,7 @@
 		]
 	},
 	"custom_strings": {
-		"english": [
-			{ "whileFunkyKicks": "while performing Kamabarai Kick, Nataotoshi Kick or Oosotomawashi Kick"}
-		],
-		"portuguese": [
-			{ "whileFunkyKicks": "ao fazer Kamabarai Kick, Nataotoshi Kick ou Oosotomawashi Kick"}
-		]
+		"english": [],
+		"portuguese": []
 	}
 }
