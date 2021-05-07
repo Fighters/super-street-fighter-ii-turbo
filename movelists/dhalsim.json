@@ -15,21 +15,21 @@
 		"{normalThrows}": [
 			{
 				"name": "Yoga Smash",
-				"input": "{close} :b: {or} :f:+[MP]"
+				"input": "{close}, :b: {or} :f:+[MP]"
 			},
 			{
 				"name": "Yoga Throw",
-				"input": "{close} :b: {or} :f:+[HP]"
+				"input": "{close}, :b: {or} :f:+[HP]"
 			}
 		],
 		"{uniqueAttacks}": [
 			{
 				"name": "Yoga Mummy",
-				"input": "{inAir} :d:+[HP]"
+				"input": "{inAir}, :d:+[HP]"
 			},
 			{
 				"name": "Yoga Spear",
-				"input": "{inAir} :d:+[K]"
+				"input": "{inAir}, :d:+[K]"
 			}
 		],
 		"{specialMoves}": [
@@ -46,8 +46,12 @@
 				"input": ":hcf:+[K]"
 			},
 			{
-				"name": "Yoga Teleport",
-				"input": ":dp: {or} :rdp:+[LP]+[MP]+[HP] {or} [LK]+[MK]+[HK]"
+				"name": "Yoga Teleport (Forward)",
+				"input": ":dp:+[LP]+[MP]+[HP] {or} [LK]+[MK]+[HK]"
+			},
+			{
+				"name": "Yoga Teleport (Back)",
+				"input": ":rdp:+[LP]+[MP]+[HP] {or} [LK]+[MK]+[HK]"
 			}
 		],
 		"{superCombo}": [
