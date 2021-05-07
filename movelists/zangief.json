@@ -63,11 +63,11 @@
 		"{specialMoves}": [
 			{
 				"name": "Double Lariat",
-				"input": "[LP]+[MP]+[HP] ({use} :b: {or} :f: {toMove})"
+				"input": "{press} [LP]+[MP]+[HP] ({use} :b: {or} :f: {toMove})"
 			},
 			{
 				"name": "Quick Double Lariat",
-				"input": "[LK]+[MK]+[HK] ({use} :b: {or} :f: {toMove})"
+				"input": "{press} [LK]+[MK]+[HK] ({use} :b: {or} :f: {toMove})"
 			},
 			{
 				"name": "Banishing Flat",
@@ -75,7 +75,7 @@
 			},
 			{
 				"name": "Spinning Piledriver",
-				"input": ":360:+[P]"
+				"input": "{close}, :360:+[P]"
 			},
 			{
 				"name": "Flying Powerbomb",
