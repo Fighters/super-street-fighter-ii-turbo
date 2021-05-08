@@ -33,7 +33,7 @@
 			},
 			{
 				"name": "Yosokyaku",
-				"input": "{inAir}, :d:+[MK] {upTo3x}"
+				"input": "{inAir}, :d:+[MK] ({upTo3x})"
 			},
 			{
 				"name": "Wall Jump",
