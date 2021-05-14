@@ -1,0 +1,205 @@
+[
+	{
+		"name": "Ryu",
+		"repository": "",
+		"movelist": "ryu.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "リュウ"
+			}
+		]
+	},
+	{
+		"name": "Ken",
+		"repository": "",
+		"movelist": "ken.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ケン・マスターズ"
+			}
+		]
+	},
+	{
+		"name": "Chun-Li",
+		"repository": "",
+		"movelist": "chunli.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "チュンリー"
+			}
+		]
+	},
+	{
+		"name": "M. Bison",
+		"also-known-as": [
+			"Dictator",
+			"Vega"
+		],
+		"repository": "",
+		"movelist": "mbison.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ベガ"
+			}
+		]
+	},
+	{
+		"name": "Sagat",
+		"repository": "",
+		"movelist": "sagat.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "サガット"
+			}
+		]
+	},
+	{
+		"name": "Zangief",
+		"repository": "",
+		"movelist": "zangief.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ザンギエフ"
+			}
+		]
+	},
+	{
+		"name": "Dhalsim",
+		"repository": "",
+		"movelist": "dhalsim.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ダルシム"
+			}
+		]
+	},
+	{
+		"name": "Vega",
+		"also-known-as": [
+			"Balrog",
+			"Claw"
+		],
+		"repository": "",
+		"movelist": "vega.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "バルログ"
+			}
+		]
+	},
+	{
+		"name": "Balrog",
+		"also-known-as": [
+			"M. Bison",
+			"Mike Bison",
+			"Boxer"
+		],
+		"repository": "",
+		"movelist": "balrog.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "マイク・バイソン"
+			}
+		]
+	},
+	{
+		"name": "Blanka",
+		"repository": "",
+		"movelist": "blanka.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ブランカ"
+			}
+		]
+	},
+	{
+		"name": "E. Honda",
+		"repository": "",
+		"movelist": "ehonda.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "エドモンド本田"
+			}
+		]
+	},
+	{
+		"name": "Guile",
+		"repository": "",
+		"movelist": "guile.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ガイル"
+			}
+		]
+	},
+	{
+		"name": "Cammy",
+		"repository": "",
+		"movelist": "cammy.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "キャミィ・ホワイト"
+			}
+		]
+	},
+	{
+		"name": "Fei Long",
+		"repository": "",
+		"movelist": "feilong.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "フェイロン"
+			}
+		]
+	},
+	{
+		"name": "Dee Jay",
+		"repository": "",
+		"movelist": "deejay.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ディージェイ"
+			}
+		]
+	},
+	{
+		"name": "T. Hawk",
+		"repository": "",
+		"movelist": "thawk.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "サンダー・ホーク"
+			}
+		]
+	},
+	{
+		"name": "Akuma",
+		"also-known-as": [
+			"Gouki"
+		],
+		"repository": "",
+		"movelist": "Akuma",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ゴウキ"
+			}
+		]
+	}
+]
